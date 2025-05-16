@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devtakkekar&label=Profile%20views&color=0e75b6&style=flat" alt="devtakkekar" /> </p>
 
-- 🔭 I’m currently working on **Lipzic Health Website**
+- 🔭 I’m currently working on **fishy.io**
 
 - 🌱 I’m currently learning **MERN,C#,Game Development**
 
