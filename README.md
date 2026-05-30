@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devtakkekar&label=Profile%20views&color=0e75b6&style=flat" alt="devtakkekar" /> </p>
 
-- 🔭 I’m currently working on **fishy.io**
+- 🔭 I’m currently working on **coc-bot**
 
-- 🌱 I’m currently learning **MERN,C#,Game Development**
+- 🌱 I’m currently learning **Python, Node.js, Discord Bot development.**
 
 - 💬 Ask me about **Java, Google Cloud FireStore, XML ,Realm**
 
