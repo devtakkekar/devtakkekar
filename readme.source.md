@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=devtakkekar&label=Profile%20Views&color=38bdf8&style=flat-square&labelColor=090a0f" alt="Profile views" />
+</p>
+
 ```aura width=820 height=1080
 <div style={{
   width: '100%',
