@@ -1,5 +1,5 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=devtakkekar&label=Profile%20Views&color=38bdf8&style=flat-square&labelColor=090a0f" alt="Profile views" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=devtakkekar&label=PROFILE%20VIEWS&color=38bdf8&style=flat-square&labelColor=0d1117" alt="Profile views" />
 </p>
 
 ```aura width=820 height=1080
