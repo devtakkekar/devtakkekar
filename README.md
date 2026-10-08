@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devtakkekar&label=Profile%20views&color=0e75b6&style=flat" alt="devtakkekar" /> </p>
 
-- 🔭 I’m currently working on **coc-bot**
+- 🔭 I’m currently working on **dev-sync**
 
-- 🌱 I’m currently learning **Python, Node.js, Discord Bot development.**
+- 🌱 I’m currently learning **Postgres Professional, Lua Scripting, and UI/UX.**
 
-- 💬 Ask me about **Java, Google Cloud FireStore, XML ,Realm**
+- 💬 Ask me about **Linux, Postgres, Lua, Tailwind, Typescript.**
 
 - 📫 How to reach me **devtakkekar@gmail.com**
 
