@@ -26,6 +26,4 @@
 
 <p><img align="left" src="https://kayan-github-profile-projects-featu.vercel.app/api/top-langs?username=devtakkekar&show_icons=true&locale=en&layout=compact" alt="devtakkekar" /></p>
 
-<p>&nbsp;<img align="center" src="https://kayan-github-profile-projects-featu.vercel.app/api?username=devtakkekar&show_icons=true&locale=en" alt="devtakkekar" /></p>
-
 
